@@ -40,7 +40,10 @@ body {
 .main_container {
     width: 100%;
     height: 100vh;
-    background-color: hsl(223.9deg 100% 91.96%);
+    background: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+     background-color: hsl(224.52deg 100% 93.92%);
+
 }
 
 .container {
